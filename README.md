@@ -2,6 +2,6 @@ We have been given Sales Data of a Chocolate Brand which includes information of
 
 Our Task is to find out Profitability using various functions in Excel.
 
-Functions used: Pivot Table, Charts, SUMIFS,V-Lookup, Power Pivot
+Functions used: Pivot Table, Charts, SUMIFS,COUNTIFS,AVERAGEIFS,V-Lookup, Power Pivot, Data Validation
 
 
